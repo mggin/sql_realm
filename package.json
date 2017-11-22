@@ -1,0 +1,20 @@
+{
+  "name": "sql_realm",
+  "version": "1.0.0",
+  "description": "convert sqlite data to realm objects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqlite",
+    "realm"
+  ],
+  "author": "Thang Gin",
+  "license": "ISC",
+  "dependencies": {
+    "knayi-myscript": "^2.2.0",
+    "realm": "^1.13.0",
+    "regex": "^0.1.1"
+  }
+}

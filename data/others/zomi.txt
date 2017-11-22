@@ -1,0 +1,502 @@
+{
+  "N1": {
+    "Q": "USA gam ii zuih thukhun Upadi thupi pen bang hiam?",
+    "A": "Gammki-ukna Thukhunpi hi",
+    "index": 0
+  },
+  "N2": {
+    "Q": "Gamki-ukna Thukhunpi in bangteng vaan hiam?",
+    "A": "Gam-uk ding kumpi phut n1lKi-ukzia ding gee n1lAmericans mite’ septheih leh ngahtheih peuhmah peelhem saklo (protects)",
+    "index": 1
+  },
+  "N3": {
+    "Q": "Gamki-ukna Thukhunpi sungah ei leh ei ki-ukzia ding lamlak kammal thumte bang hiam?",
+    "A": "Ei mipite",
+    "index": 2
+  },
+  "N4": {
+    "Q": "Upadi Puahphatna/behlapna (Amendment) icih bang hiam?",
+    "A": "Akikheelna khat n1lGuanbeh (Behlap) ",
+    "index": 3
+  },
+  "N5": {
+    "Q": "Gamki-ukna Thukhunpi sungah Puahphat masakna sawmte bang kici hiam? ",
+    "A": "Hamphatnading Upadi",
+    "index": 4
+  },
+  "N6": {
+    "Q": "Tua Puahphat Masakna ah hamphatna ahihkeh suahtakna khat bang ahia?",
+    "A": "Suaktataka thugentheihna n1lSuaktataka Biakpiaktheihna n1lSuaktataka Kikaihkhoptheihna  n1lSuaktataka Laigelh leh hawmtheihna n1lSuaktataka Kumpi tungah lungkimlohna gentheih/pulaktheihna ",
+    "index": 5
+  },
+  "N7": {
+    "Q": "Gamki-ukna Thukhunpi bangzah vei kipuahpha ta hiam?",
+    "A": "27 vei",
+    "index": 6
+  },
+  "N8": {
+    "Q": "Suahtakna Thutangkopina bang hiam?",
+    "A": "(Great Britain te kiangpan) suahtak tangkona  n1l(Great Britain te kiangpan) suahtak pulakkhia n1l(Great Britain te kiangpan) Americante (United States) suakta hi ei cihkhiatna",
+    "index": 7
+  },
+  "N9": {
+    "Q": "Suahtakna Thutangkopi in hong phal hamphatna thunihte bang a hia?",
+    "A": "Nuntak khuasakna n1lKiphalna n1lNopsak banga zontheihna ",
+    "index": 8
+  },
+  "N10": {
+    "Q": "Biakna Suahtakna in bang hiam?",
+    "A": "Biakna khat peuhpeuh ah na utleh biathei/bialothei lel a omna",
+    "index": 9
+  },
+  "N11": {
+    "Q": "United States ah kizang neih-le-lam,silh-le-teen khantohna (sipuazi paizia) ah bangdan in pai hiam?",
+    "A": "Aziansian sanit (Sumneite bulphuh) paizia n1lSumzuaknamun thupitsakna (Zaykuat sipuazi) ",
+    "index": 10
+  },
+  "N12": {
+    "Q": "Upadi tawh ki-uk cih bang hiam? ",
+    "A": "Mikim in upadi zui/mang ding n1l Makaite in zong upadi zui/mang ding n1lKumpi in zong upadi zui/mang ding n1lKuamahpeuh upadi huamkhakloh omtuansaklo ding",
+    "index": 11 
+  },
+  "N13": {
+    "Q": "Ki-ukna Kumpi kilamzia ah akihel ahiang thupi khat min pulak sin aw. ",
+    "A": "Hluttaw n1lUpadi bawlna n1lPresident n1lThuvaanpite n1lThukhenzumte n1lThukhenmangte",
+    "index": 12 
+  },
+  "N14": {
+    "Q": "Tua Ki-ukna ah ahiang khat in aana aneihluatloh nading in bangci ki-gak hiam?",
+    "A": "Aana hawm/khenna tawh n1lKi-etcikna tawh ",
+    "index": 13
+  },
+  "N15": {
+    "Q": "A thuneipi pen kua ahiam?",
+    "A": "President",
+    "index": 14
+  },
+  "N16": {
+    "Q": "Federal ki-ukna upadi kua in geel hiam?",
+    "A": "Hlutdaw n1lPyine Kusale Amat leh Taangmi Kusale n1lGam ahihkeh Amyotha Upadi bawl Hluttaw",
+    "index": 15
+  },
+  "N17": {
+    "Q": "U.S Congress (Hluttaw) ah dawl nihte bang hiam?",
+    "A": "Pyine Hluttaw leh Taangmi Hluttaw",
+    "index": 16
+  },
+  "N18": {
+    "Q": "Pyine Amat (Senator) bangzah om hiam?",
+    "A": "Za khat (100)",
+    "index": 17
+  },
+  "N19": {
+    "Q": "Senator khat in kum bangzah sem dingin kiteel ahia?",
+    "A": "Kum guk (6)",
+    "index": 18
+  },
+  "N20": {
+    "Q": "Tulaitak in no Pyine (State) ah Hluttaw (Senator)amat khat kua hiam? ",
+    "A": "",
+    "index": 19
+  },
+  "N21": {
+    "Q": "Taangmi Hluttaw (House of Representatives) ah member mi bangzah kiteel hiam?",
+    "A": "Zali sawmthum nga (435)",
+    "index": 20
+  },
+  "N22": {
+    "Q": "U.S. Taangmi Hluttaw kusale khat kum bangzah sem dingin kiteel hiam?",
+    "A": "Kumnih (2)",
+    "index": 21
+  },
+  "N23": {
+    "Q": "No ii Taangmi Hluttaw Kusale kua hiam? ",
+    "A": "Dawnna atuamtuam suak ding (Me khia khaloten neilo ahihteh Menzipa –Commissioner pa min genthei) ",
+    "index": 22
+  },
+  "N24": {
+    "Q": "U.S Pyine Hluttaw kusale khat in kuate ii taangmi ahihiam?",
+    "A": "Ama pyine(state) a om mi khempeuh ",
+    "index": 23
+  },
+  "N25": {
+    "Q": "Banghang in State pawl khat ah Taangmi kusale adangte sangin tam zaw hiam?",
+    "A": "Amau pyine ah miphazah tawh kisai hang n1lAmau pyine ah mipibup atamzawk hang n1lPyine khat leh khat ah miphazah akibatlohna hang hi",
+    "index": 24
+  },
+  "N26": {
+    "Q": "President in kum bangtan sem dingin kiteel ahihiam?",
+    "A": "Kum li (4)",
+    "index": 25
+  },
+  "N27": {
+    "Q": "President kiteel hun bang kha hiam?",
+    "A": "November",
+    "index": 26
+  },
+  "N28": {
+    "Q": "Tulaitak United States ii President (Thamada) min kua hiam?",
+    "A": "Donald J. Trump",
+    "index": 27
+  },
+  "N29": {
+    "Q": "Tulaitak United States ii Vice President (Thamada azom pa) min bang hiam? ",
+    "A": "Michael R. Pence",
+    "index": 28
+  },
+  "N30": {
+    "Q": "President in sem thei nonlo hileh kua President suak ding hiam?",
+    "A": "President zompa",
+    "index": 29
+  },
+  "N31": {
+    "Q": "President leh Vice President in semthei nonlo hileh kua President suak ding hiam?",
+    "A": "Hluttaw Okkathah Pa",
+    "index": 30
+  },
+  "N32": {
+    "Q": "Galkap lam ah a uk alian pen kua ahihiam?",
+    "A": "President pa",
+    "index": 31
+  },
+  "N33": {
+    "Q": "Upadi kigeel akipsak nading in kua in letmat thuh hiam?",
+    "A": "President pa",
+    "index": 32
+  },
+  "N34": {
+    "Q": "Kua in Upadi kigeel khat nial thei hiam? ",
+    "A": "President pa",
+    "index": 33
+  },
+  "N35": {
+    "Q": "President ii vuanzite in bang sem uh hiam?",
+    "A": "President pa tungah thuko/puak ding",
+    "index": 34
+  },
+  "N36": {
+    "Q": "Vuanzi za panmun nih bang hiam?",
+    "A": "Lokho (Agriculture) Vuanzi  n1lSumbawlnalam (Commerce) Vuanzi ",
+    "index": 35
+  },
+  "N37": {
+    "Q": "Thukhen mang in bang sem hiam?",
+    "A": "Upadi enphaphakik n1lUpadi telgenkhia n1lKinialtheihnate lemtuah n1lUpadi leh Gamki-ukna Thukhun kikeelkite khentat’",
+    "index": 36
+  },
+  "N38": {
+    "Q": "United States ah thukhen zum a sang pen bang hiam?",
+    "A": "Tazazungchoh",
+    "index": 37
+  },
+  "N39": {
+    "Q": "Supreme Court ah Thukhen Mang bangzah om hiam?",
+    "A": "Kua (9)",
+    "index": 38
+  },
+  "N40": {
+    "Q": "Tulaitak United States ah Thukhenmangpi kua hiam? ",
+    "A": "John Roberts (John G. Roberts, Jr.)",
+    "index": 39
+  },
+  "N41": {
+    "Q": "Gamki-ukna Thukhunpi nuai ah aana neihna Gambup Kumpi (Federal Government) in nei hi. Gambup Kumpi neihtheih aana khat bang hiam?",
+    "A": "Sum khenkhiasak n1lGalsim ding khensat n1lGalkap phuansak n1lGamdang tawh thukimna laipi bawl",
+    "index": 40
+  },
+  "N42": {
+    "Q": "Gamki-ukna Thukhunpi nuai ah septheih aana neihna pyinete ah kipia hi. Tua aana khat bang ahi hiam? ",
+    "A": "Sang leh pilsinna vaihawm  n1lPalik nei thei n1lMeiphelhna leh humbitna vaihawm thei n1lMawtawhawl letmat piathei n1lGam leh lei zatna vaihawmthei",
+    "index": 41
+  },
+  "N43": {
+    "Q": "No pyine aa alianpen Governor tulaitakin kua hiam?",
+    "A": "",
+    "index": 42
+  },
+  "N44": {
+    "Q": "No pyine khuapi (myodaw) bang hiam?",
+    "A": "",
+    "index": 43
+  },
+  "N45": {
+    "Q": "USA ah naingnganzi party lian nih bang ahi hiam?",
+    "A": "Democratic leh Republican",
+    "index": 44
+  },
+  "N46": {
+    "Q": "Tu laitak aa President pa ii naingnganzi party min bang hiam?",
+    "A": "Republican Party",
+    "index": 45
+  },
+  "N47": {
+    "Q": "Gambup Hlutdaw Okkathah kua hiam?",
+    "A": "Paul D. Ryan",
+    "index": 46
+  },
+  "N48": {
+    "Q": " Gamki-ukna Thukhunpi ah li veitak kipuahphatna ah kuate in mee piathei dingte cih kilemthak hi. Tua lak ah khat gen in.",
+    "A": "Gammi kum 18 a pha leh a tungsiahte n1lMee piak theih nading sumpiak kullo. n1lNumei pasal a kuapeuh in mee piathei n1lKua minam hitaleh gammi pasal khatpeuh in mee piathei",
+    "index": 47
+  },
+  "N49": {
+    "Q": "United States gammi bek ii tavuan khat bang hiam? ",
+    "A": "Thukhen semthei n1lFederal (Pyine) kiteelna ah mee piathei",
+    "index": 48
+  },
+  "N50": {
+    "Q": "United States gammi khat ii ngahtheih hamphatna khat bang hiam?",
+    "A": "Federal kiteelna ah thu neithe n1lFederal ah meekuang lui thei",
+    "index": 49
+  },
+  "N51": {
+    "Q": "United States ah a teeng khempeuh ii ngahtheih hamphatna thu nih bang hiam?",
+    "A": "Suakta takin thu pulaakthei n1lSuakta takin thu genthei ",
+    "index": 50
+  },
+  "N52": {
+    "Q": " Zahtak piakding Kamciam (Pledge of Alegiance) I neih ciang’ bang tungah thumaan citak ding I hiam? ",
+    "A": "United States gam tungah n1lGam ii alan tungah",
+    "index": 51
+  },
+  "N53": {
+    "Q": "United States gammi khat na suah ciangin na kam kiciamna khat bang ahi hiam?",
+    "A": "Gamdangte tungah muanna leh suanna nei nawnlo ding n1lUnited States ii Gamki-ukna Thukhun leh Upadite humbit ding n1lUnited States ii Upadi zui ding",
+    "index": 52
+  },
+  "N54": {
+    "Q": "President a kiteelna ah mee pia theidingte kum bangzah pha ding hiam?",
+    "A": "Kum 18 leh a tung siah",
+    "index": 53
+  },
+  "N55": {
+    "Q": "American te in Democracy vaipuak ah kiheltheih nading nam nih bang ahi hiam?",
+    "A": "Meepia n1lNaingnganzi party khat peuhpeuh ah kihel  n1lMee suaina ah huh n1lCivil kipawlna khat ah kizom  n1lVeeng kipawlna ah kihel",
+    "index": 54
+  },
+  "N56": {
+    "Q": "Pyine akhun(tax) piak ding a ni nunung bang ni hiam?",
+    "A": "April 15",
+    "index": 55
+  },
+  "N57": {
+    "Q": "Galkap nasep peello in sem dingte kum bangzah kikal hiding hiam?",
+    "A": "Kum 18 phak ah n1lKum 18 leh 26 kikal ah ",
+    "index": 56
+  },
+  "N58": {
+    "Q": "Gamdang mite America ah hong paina ahang khat bang hiam?",
+    "A": "Suaktanuam n1lNaingnganzi sepna ah suakta n1lBiakna ah suahtakna n1lNuntaknading baih n1lAmau biaknop biakna peuhpeuh biathei n1lKigawtna/kibawlsiatna omlo",
+    "index": 57
+  },
+  "N59": {
+    "Q": "Europe mite hong tun ma in America ah kuate teengkhin uh hiam?",
+    "A": "American Indians te n1lNative American kici America ah a teengciilte ",
+    "index": 58
+  },
+  "N60": {
+    "Q": "America ah hong lalte in banghangin Mangkangte (British) do uh hiam?",
+    "A": "Africa gam pan mite",
+    "index": 59
+  },
+  "N61": {
+    "Q": "America ah hong lalte in banghangin Mangkangte (British) do uh hiam?",
+    "A": "Phiangsiah piak tamluat hang n1lBritish galkapte amau gam ah a om hang n1lAmau leh mau ki-uk ding kumpi a neih loh hang ",
+    "index": 60
+  },
+  "N62": {
+    "Q": "Suahtaakna Thupulakkhiat kua in at ahihiam?",
+    "A": "Thomas Jefferson",
+    "index": 61
+  },
+  "N63": {
+    "Q": "Suahtaakna Thupulakkhiat cikni in kikipsak hiam?",
+    "A": "July 4, 1776",
+    "index": 62
+  },
+  "N64": {
+    "Q": "Gam kiphut tungin Pyine 13 om hi. Thum min pulak in.",
+    "A": "New York n1lNew Jersey n1lPennsylvania n1lDelaware n1lVirginia",
+    "index": 63
+  },
+  "N65": {
+    "Q": "Gamki-ukna Kikupna Khawmpi ah bang kisemkhia hiam?",
+    "A": "Gamki-ukna Thukhunpi kigelhkhia n1lGamphutkhiacil Pate in Gamki-ukna Thukhunpi geel",
+    "index": 64
+  },
+  "N66": {
+    "Q": "Gamki-ukna Thukhunpi (Constitution) cikkum in kigelh hiam?",
+    "A": "1787",
+    "index": 65
+  },
+  "N67": {
+    "Q": "Gamki-ukna Thukhunpi sungah Federal tawh ki-ukna ding apiangsak lai-geelte lak ah khat min gen in.",
+    "A": "James Madison n1lAlexander Hamilton n1lJohn Jay n1lPublius",
+    "index": 66
+  },
+  "N68": {
+    "Q": "Benjamin Franklin aminthanna ahang khat gen in.",
+    "A": "U.S. diplomat (Palai) n1lGamki-ukna Thukhun geelna ah a kum ham pen n1lU.S ah Postmaster General (Sadaih mang) amasa pen",
+    "index": 67
+  },
+  "N69": {
+    "Q": "“Ih gam ii pa” kua hiam?",
+    "A": "George Washington",
+    "index": 68
+  },
+  "N70": {
+    "Q": "President masa pen kua hiam?",
+    "A": "George Washington",
+    "index": 69
+  },
+  "N71": {
+    "Q": "1803 kum in United States in Piantit (France) te kiangpan bang gam lei ahi hiam?",
+    "A": "Louisiana gam",
+    "index": 70
+  },
+  "N72": {
+    "Q": "1800 hun lai in United States in a do gal khat min pulak in.",
+    "A": "1812 kum Gal  n1lMexican-American Gal n1lTual Gal n1lSpanish-American Gal",
+    "index": 71
+  },
+  "N73": {
+    "Q": "U.S. Saklam leh Khanglam kidona US galmin bang hiam?",
+    "A": "Tual Gal n1lPyine khat leh khat kikal kidona",
+    "index": 72
+  },
+  "N74": {
+    "Q": "Tualgal a piangsak thubuai khat gen in.",
+    "A": "Sila vai n1lNeek leh dawn vai n1lPyine te phattuam ngahna vai ",
+    "index": 73
+  },
+  "N75": {
+    "Q": "Abraham Lincoln ii sepkhiat athupi mahmah khat bang hiam?",
+    "A": "Silate suakta sak (Silate Khahkhiatna Pulakkhiatna) n1lGambup kembit/humbit zo n1lUnited States tualgal sung makaih",
+    "index": 74
+  },
+  "N76": {
+    "Q": "Sila khahkhiatna Thupulakna (Emancipation Proclamation) in bang sem hiam?",
+    "A": "Silate suakta sak n1lKipawl Kithukimna tawh silate khahkhia n1lKipawlna a thukim gamte ah sila kikhahkhia n1lKhanglam gam khempeuh phial-ah sila kikhahkhiata",
+    "index": 75
+  },
+  "N77": {
+    "Q": "Susan B. Anthony in bang sem khia hiam?",
+    "A": "Numeite ngahding phattuamna phu n1lMipi ngahding phattuamnate phu",
+    "index": 76
+  },
+  "N78": {
+    "Q": "Kum 1900 huam sungah America in a galdo khat gen in.",
+    "A": "Leitung Galpi Khatna n1lLeitung Galpi Nihna n1lKorea Gal n1lVietnam Gal n1l(Persian) Gulf (Pinlekuih) Gal",
+    "index": 77
+  },
+  "N79": {
+    "Q": "Leitung Galpi Kido Masa hun lai in President kua ahi hiam?",
+    "A": "Woodrow Wilson",
+    "index": 78
+  },
+  "N80": {
+    "Q": "Donghtuah Lianpi Hun leh Leitung Galpi Nihna kido hun in President kua ahi hiam?",
+    "A": "Franklin Roosevelt",
+    "index": 79
+  },
+  "N81": {
+    "Q": "Leitung Galpi Nihna hun lai in United States in kuate do hiam?",
+    "A": "Japan, Germany leh Italy",
+    "index": 80
+  },
+  "N82": {
+    "Q": "Eisenhower President a suahma in galkap mang General ahi hi. Bang gal do ahi hiam?",
+    "A": "Leitung Galpi II",
+    "index": 81
+  },
+  "N83": {
+    "Q": "Cold War kici kilungsimneih gal kidona hun lai in United States in bang buaipih pen hiam?",
+    "A": "Communism",
+    "index": 82
+  },
+  "N84": {
+    "Q": "Bang lungphona in minam kigimneihna beisak sawm hiam?",
+    "A": "Tualsung hamphatna (lungphona)",
+    "index": 83
+  },
+  "N85": {
+    "Q": "Martin Luther King Jr, in bang semkhia hiam?",
+    "A": "Tualsung hamphat nading vai phu n1lAmerican te khempeuh liangko kikim nading sem",
+    "index": 84
+  },
+  "N86": {
+    "Q": "September 11, 2001 ni in United States ah bang thu lianpi piang ahi hiam?",
+    "A": "Mi-ngongtatte (terrorists) in U.S. sim",
+    "index": 85
+  },
+  "N87": {
+    "Q": "American Indian minam sungah nam khat gen in.",
+    "A": "Cherokee n1lNavajo n1lSioux n1lChippewa n1lChoctaw",
+    "index": 86
+  },
+  "N88": {
+    "Q": "United States gam ah a sau penpen gunpi nih lak ah khat min gen in. ",
+    "A": "Missouri Gun n1lor n1lMississippi Gun",
+    "index": 87
+  },
+  "N89": {
+    "Q": "United States ii nitumna lam ah om tuipi bang hiam?",
+    "A": "Pacific Tuipi",
+    "index": 88
+  },
+  "N90": {
+    "Q": "United States ii nisuahna lam ah om tuipi banghiam?",
+    "A": "Atlantic Tuipi",
+    "index": 89
+  },
+  "N91": {
+    "Q": "U.S. ii uk gam lak ah khat gen in.",
+    "A": "Puerto Rico n1lU.S. Virgin Islands n1lAmerican Samoa n1lNorthern Mariana Islands n1lGuam",
+    "index": 90
+  },
+  "N92": {
+    "Q": "Canada tawh kigamgi pyine min khat gen in.",
+    "A": "Maine n1lNew Hampshire n1lVermont n1lNew York n1lPennsylvania",
+    "index": 91
+  },
+  "N93": {
+    "Q": "Mexico gam tawh kigamgi pyine min khat gen in.",
+    "A": "California n1lArizona n1lNew Mexico n1lTexas",
+    "index": 92
+  },
+  "N94": {
+    "Q": "United States ii gam-ukna khuapi min bang hiam?",
+    "A": "Washington, D.C.",
+    "index": 93
+  },
+  "N95": {
+    "Q": "Suahtakna milimpi koi ah om hiam?",
+    "A": "New York Tembaw kholna ah n1lLiberty Tuikulh tungah",
+    "index": 94
+  },
+  "N96": {
+    "Q": "Banghang in US alan ah agial 13 om hiam?",
+    "A": "Aksi khat ciang Pyine khat taang a ding n1lA gial te in zong pyine khatta taang a ding lahna hi",
+    "index": 95
+  },
+  "N97": {
+    "Q": "Banghang in US alan ah aksi 50 tuang hiam?",
+    "A": "Aksi khat ciang Pyine khat taang a ding n1lPyine 50 a om hang",
+    "index": 96
+  },
+  "N98": {
+    "Q": "Gam Lapi min bang hiam?",
+    "A": "Aksi Tediamdiam Dialkhai",
+    "index": 97
+  },
+  "N99": {
+    "Q": "Cikni in Suahtakni kibawl hiam?",
+    "A": "July 4",
+    "index": 98
+  },
+  "N100": {
+    "Q": "U.S. ah tawlngakni nih gen in.",
+    "A": "New Year’s Day n1lMartin Luther King, Jr. Day n1lPresidents’ Day n1lMemorial Day",
+    "index": 99
+    }
+}
